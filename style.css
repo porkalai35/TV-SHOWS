@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-image: url("https://media.istockphoto.com/vectors/abstract-white-background-geometric-texture-vector-id902832178?k=6&m=902832178&s=170667a&w=0&h=HdCRG3bFr8PCRfbeil6kOHEaVY9eNa8USW3mwSRb2wQ=");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color:#000066;
+}
+label{
+    color:#000066;
+    font-weight: 800;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;    
+}
+option{
+    font-weight: 600;   
+}
+
