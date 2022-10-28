@@ -1,1 +1,5 @@
 # TV-SHOWS
+
+-PHP
+-HTML
+-CSS
